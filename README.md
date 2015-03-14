@@ -14,9 +14,12 @@ http://www.jetdroid.org/
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=RiJTbvaI8Zs' target='_blank'><img src='http://img.youtube.com/vi/RiJTbvaI8Zs/0.jpg' width='425' height=344 /></a>
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=cy5dI0Ze0yQ' target='_blank'><img src='http://img.youtube.com/vi/cy5dI0Ze0yQ/0.jpg' width='425' height=344 /></a>
 
-Here is my ported, built ROMs for Jét.
+Here is my ported and built ROMs for Jét.
+(CM7 and CM9)
 
-For now I have no plans to continue working on Jét...  
+My old ported ROMs for Jét are now permanently deleted because those were old and unstable.
+
+For now I have no plans to continue working on Jét... 
 
 To get JetPlatform 0.5 pre1 binary (Gingerbread CM7) click this link: http://www.jetdroid.org/forum/viewtopic.php?f=101&t=2244
 
